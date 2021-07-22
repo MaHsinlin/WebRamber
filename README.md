@@ -29,7 +29,7 @@ Attention:因为仍在开发中，没有服务器支持，dl到本地的项目�
 
 + 工坊·示例2
 
-+ ![image](show_img/workshop2.png)
+![image](show_img/workshop2.png)
 
 ### 四、开发进度
 # 
