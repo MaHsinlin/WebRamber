@@ -1,5 +1,7 @@
 # WebRamber
 
+![GitHub](https://img.shields.io/github/license/MaHsinlin/WebRamber?style=flat-square)  ![GitHub contributors](https://img.shields.io/github/contributors/MaHsinlin/WebRamber?style=flat-square)
+
 用于辅助生成简单页面，开发中，仅实现了部分主要功能，大部分次要功能未实现。
 
 Attention:因为仍在开发中，没有服务器支持，dl到本地的项目亦没有可执行程序，运行需要自行用服务器部署，推荐Tomcat，在项目中修改或添加tomcat和jdk的依赖即可部署。
